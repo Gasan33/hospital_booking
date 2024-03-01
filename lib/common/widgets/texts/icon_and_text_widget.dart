@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:hospital_booking/utils/constants/sizes.dart';
-import 'package:iconsax/iconsax.dart';
 
 class TIconAndTextWidget extends StatelessWidget {
   const TIconAndTextWidget({super.key, this.icon, required this.text, this.size=16});
